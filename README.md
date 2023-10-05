@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Train Thomas and Adam</h1>
+<h1>Thomas and Adam the Leo Express Engine</h1>
 <img src="train_thomas.jpg" width="300px" />
 </div>
 
